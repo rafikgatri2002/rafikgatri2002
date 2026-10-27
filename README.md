@@ -38,4 +38,4 @@ A full-stack AI fitness tracker I built end to end: mobile app, backend, AI, and
 ---
 
 ### 📫 Reach me
-🌐 [Portfolio](https://rafikgatri.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/rafik-gatri-6986b62b3) · 📧 rafik.gatri.2002@gmail.com
+🌐 [Portfolio](https://rafikgatri.vercel.app) · 💼 [LinkedIn]linkedin.com/in/rafikgatri2002) · 📧 rafik.gatri.2002@gmail.com
